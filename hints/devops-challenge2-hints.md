@@ -3,7 +3,7 @@
 - Navigate to the [Azure DevOps Portal](https://dev.azure.com)
 - Find your Repo in Azure Repos
 - Find Index.cshtml in the sample application project
-- Edit one of the text elements to show 'mini-cak' and your project name
+- Edit one of the text elements to show 'mini-hack' and your project name
 - Commit the file
 - watch as your application is built and deployed in Azure pipelines
 
