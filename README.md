@@ -17,7 +17,7 @@ Easy mini-hacks are designed to be simple to complete, but still demonstrate the
 
 With DevOps Projects, you can start running your application on any Azure service in just three steps — simply select an application language, a runtime, and an Azure service.
 
-[[start the Azure DevOps Project Mini-hack | azure-devops-projects-mini-hack ]]
+[start the Azure DevOps Project Mini-hack] (azure-devops-projects-mini-hack)
 
 ## Medium
 
