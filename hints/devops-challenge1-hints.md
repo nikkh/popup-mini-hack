@@ -8,4 +8,4 @@
 
 Detailed instructions for this challenge are available [here](https://github.com/nikkh/maug3010/wiki/Create-your-First-Azure-DevOps-Project)
 
-[back]()
+[back](../azure-devops-projects-mini-hack.md)
