@@ -17,7 +17,7 @@ Easy mini-hacks are designed to be simple to complete, but still demonstrate the
 
 With DevOps Projects, you can start running your application on any Azure service in just three steps — simply select an application language, a runtime, and an Azure service.
 
-[start the Azure DevOps Project Mini-hack] (azure-devops-projects-mini-hack.md)
+[start the Azure DevOps Project Mini-hack](azure-devops-projects-mini-hack.md)
 
 ## Medium
 
@@ -27,7 +27,7 @@ Medium mini-hacks are usually target on a particular technology, and whilst ther
 
 Conversation Transcription delivers accurate recognition with customizable speech models that you can tailor to understand industry and company-specific vocabulary
 
-[[start the Speech Transcription Mini-hack | azure-speech-transcription-mini-hack ]]
+[start the Speech Transcription Mini-hack](azure-speech-transcription-mini-hack.md)
 
 ## Hard
 
