@@ -10,4 +10,6 @@ Please follow the steps below before starting your mini-hack.
 4. Logon to the [Azure DevOps Portal](https://dev.azure.com)
 5. Any problems speak to a proctor
 
+> These mini-hacks have been specifically deigned so that you dont need to install any development tools on your own machine.  If you have local git, VSCode, ect feel free to use them but it's not necessary.
+
 That's it! We hope you enjoy your mini-hack. Let's get started.
