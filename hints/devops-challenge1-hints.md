@@ -1,6 +1,6 @@
-# Create and Azure DevOps Project
+# Create an Azure DevOps Project
 ## Hints
-- Azure DevOps projects are created from the Azure Portal
+- Azure DevOps projects are created from the [Azure Portal](https://portal.azure.com)
 - If you cant find DevOps Projects in the portal menu, you can search for them using the search bar at the top of the screen
 - Your project deployment should complete in a minute or so.  You can watch progress int he Azure Portal.
 - When you project is deployed it checks the sample application into the Repo it has just created, this kicks off a CI/CD piepline that builds your application, creates the infrastructure necessary to host it, and then dploys to that infrastructure. You can watch progress in either the Azure Portal or in the DevOps portal.
