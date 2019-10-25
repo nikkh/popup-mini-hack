@@ -12,7 +12,7 @@ If you plan to use the hints then choose to build your application using .NET Co
 [hints](hints/devops-challenge1-hints.md)
 
 ## Challenge 2 - Change the sample application home page
-The aim of this challenge is to make a simple change to the Sample Application Home Page.  You must include the text "Mini-hack<your team name>" somewhere on the hope page of your application. 
+The aim of this challenge is to make a simple change to the Sample Application Home Page.  You shoould include the text "Mini-hack" + "your team name" somewhere on the hope page of your application. 
 
 > Done: You must be able to browse to your application and see the change.
 
