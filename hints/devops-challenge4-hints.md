@@ -1,4 +1,4 @@
-# Automatically create a work item whent the build fails
+# Automatically create a work item when the build fails
 ## Hints
 - This setting is associated with your Azure DevOps project
 - More specifically, its an option on the build pipeline
