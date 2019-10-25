@@ -6,30 +6,33 @@ Pop-up mini-hacks are challenge oriented, so that the hack teams can research an
 
 The hacks themselves are graded as easy, medium and difficult and the challenges themselves get progressively harder within the hack so that there is some learning for everyone regardless of their pre-existing skills.
 
-> This is an embryonic idea that we are trying to develop in a lean way, by accepting feedback and pivoting to obtain maximum usefulnesss.  Please bear with us if we encounter theethinig problems :-)
+> This is an embryonic idea that we are trying to develop in a lean way, by accepting feedback and pivoting to obtain maximum usefulnesss.  Please bear with us if we encounter teething problems :-)
 
+## Choose your mini-hack
 
-## Easy
+Whichever hack you choose, please read the [getting started](getting-started.md)
+
+### Easy
 
 Easy mini-hacks are designed to be simple to complete, but still demonstrate the all-up value of Azure.  A cheat sheet of detailed instructions is available if you get stuck.
 
-### Azure DevOps Projects
+#### Azure DevOps Projects
 
 With DevOps Projects, you can start running your application on any Azure service in just three steps — simply select an application language, a runtime, and an Azure service.
 
 [start the Azure DevOps Project Mini-hack](azure-devops-projects-mini-hack.md)
 
-## Medium
+### Medium
 
 Medium mini-hacks are usually target on a particular technology, and whilst there are cheat-sheets available these are not step by step instructions - you will still need to interpret the information
 
-### Azure Cognitive Services - Speech - Transcription
+#### Azure Cognitive Services - Speech - Transcription
 
 Conversation Transcription delivers accurate recognition with customizable speech models that you can tailor to understand industry and company-specific vocabulary
 
 [start the Speech Transcription Mini-hack](azure-speech-transcription-mini-hack.md)
 
-## Hard
+### Hard
 
 > We dont have any hard mini-hacks yet.
 
