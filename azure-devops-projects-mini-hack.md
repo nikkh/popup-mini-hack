@@ -12,7 +12,7 @@ If you plan to use the hints then choose to build your application using .NET Co
 [hints](hints/devops-challenge1-hints.md)
 
 ## Challenge 2 - Change the sample application home page
-The aim of this challenge is to make a simple change to the Sample Application Home Page.  You shoould include the text "Mini-hack" + "your team name" somewhere on the hope page of your application. 
+The aim of this challenge is to make a simple change to the Sample Application Home Page.  You should include the text "Mini-hack" + "your team name" somewhere on the hope page of your application. 
 
 > Done: You must be able to browse to your application and see the change.
 
@@ -26,7 +26,7 @@ The aim of this challenge is to take a inspect the properties of the container t
 [hints](hints/devops-challenge3-hints.md)
 
 ## Challenge 4 - Automatically create a work item when the build fails
-The aim of this challenge is to configure Azure DevOps to automatically log a bug if your build fails.  You will need to aemd your code or some one of the unit tests to force the build to fail. Once you have created your bug, then fix it so your build is no longer broken.
+The aim of this challenge is to configure Azure DevOps to automatically log a bug if your build fails.  You will need to amend your code or some one of the unit tests to force the build to fail. Once you have created your bug, then fix it so your build is no longer broken.
 
 > Done: Take a screenshot of the bug in Azure Boards
 
